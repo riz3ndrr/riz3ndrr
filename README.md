@@ -1,4 +1,8 @@
-## Hi there 👋
+## Kumusta
+
+### Final Year Computer Science Student @ University of Canterbury
+
+[Linkedin](https://www.linkedin.com/in/dwyane-ramos/)
 
 <!--
 **riz3ndrr/riz3ndrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
